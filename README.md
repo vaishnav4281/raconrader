@@ -1,4 +1,4 @@
-# Raccoon Radar
+# Racoon Radar
 
 <p align="center">
   <h3 align="center">Enterprise Domain Intelligence & OSINT Platform</h3>
