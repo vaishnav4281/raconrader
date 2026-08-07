@@ -1,4 +1,4 @@
-# Racon Radar
+# ReconRadar
 
 <p align="center">
   <h3 align="center">Enterprise Domain Intelligence & OSINT Platform</h3>
@@ -11,7 +11,7 @@
 
 ## 🚀 Overview
 
-**Raccoon Radar** is a modern **Domain Intelligence, OSINT, and Security Analysis Platform** built to provide deep visibility into the infrastructure, reputation, security posture, and technology stack of internet-facing domains.
+**ReconRadar** is a modern **Domain Intelligence, OSINT, and Security Analysis Platform** built to provide deep visibility into the infrastructure, reputation, security posture, and technology stack of internet-facing domains.
 
 Instead of manually using multiple security tools, Raccoon Radar aggregates intelligence from numerous sources into a **single unified dashboard**, allowing security researchers, penetration testers, SOC analysts, bug bounty hunters, developers, and IT teams to perform comprehensive reconnaissance with one scan.
 
